@@ -1,4 +1,4 @@
-This repository contains gitian signatures for Ghost Particl Core.
+This repository contains gitian signatures for Ghost Core.
 It should be updated on each release.
 
 ## How to Make and Submit Gitian Sigs
