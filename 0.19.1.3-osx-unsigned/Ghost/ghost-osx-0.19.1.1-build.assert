@@ -1,13 +1,13 @@
 --- !!omap
 - out_manifest: |
-    52c31dff427ee2250d1e987dc4b64ebecf43af9802e50397a944d45d8a6fe5e1  ghost-0.19.1.3-osx-unsigned.dmg
-    fc80edd3bf6e45e430faeed3646092337e4b6dd1465c91bda84468e66a2999d4  ghost-0.19.1.3-osx-unsigned.tar.gz
-    8ff80dc89938ee4e613787bac778a7371b5c4c7f1a49c88d6018aab111abb0b8  ghost-0.19.1.3-osx64.tar.gz
-    c7e6308a0095892976b39d5ac54dda5894a24a86c588eba460b8e1ad1fc8506d  src/ghost-0.19.1.3.tar.gz
+    b2b3d5ff101062e6b5134e8008617cfcd298ca48b234df03588598e1b4401ffa  ghost-0.19.1.3-osx-unsigned.dmg
+    d51dad69b87d64f174ba0d510dbe096516ed950133595ff8d4d35beb22383894  ghost-0.19.1.3-osx-unsigned.tar.gz
+    4eabb031784fe1550c763a6dc1b635533dd7e09132b91676f2ca4ac56d079747  ghost-0.19.1.3-osx64.tar.gz
+    0da31730f408a55d4ad3bc0b435c72e715c530da7a9550c4e03d1dddf56c2cc6  src/ghost-0.19.1.3.tar.gz
 - in_manifest: |-
     7556d9d65ddddb78c8abd3ba9410655e021aeb964a58d2f168ff5793a36f38d7  ghost-osx-0.19.1.1-desc.yml
     bec9d089ebf2e2dd59b1a811a38ec78ebd5da18cbbcd6ab39d1e59f64ac5033f  MacOSX10.11.sdk.tar.gz
-    git:db54f0b23daf999ca5cb7401e48f5333cd51730a ghost-core
+    git:d8368b98232a0975e990964bb3c05b239059dc6b ghost-core
 - base_manifests: !!omap
   - bionic-amd64: |
       d451eb00b2d0e2940e26028ea9f2fb1be4f5109010e997acfb2c46229ebd9ebe  adduser_3.116ubuntu1_all.deb
