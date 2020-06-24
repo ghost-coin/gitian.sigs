@@ -1,23 +1,23 @@
 --- !!omap
 - out_manifest: |
-    36f4b83a490447719b5982d9eae573a0a32a3dd41280a772f19190520729390c  ghost-0.19.1.5-aarch64-linux-gnu-debug.tar.gz
-    bc1d37c277bc2c38f6dbc8a2eb1bf386024f289972fa595ce6220035e843c40f  ghost-0.19.1.5-aarch64-linux-gnu.tar.gz
-    b2c20a24e3d48ef3ea2644c6e45aab6ab3185008776fc65c91237f586f18d07d  ghost-0.19.1.5-arm-linux-gnueabihf-debug.tar.gz
-    2f1bee3a7bf2132b02015309d282b0010e97e5f60519f68095e01c426706c85e  ghost-0.19.1.5-arm-linux-gnueabihf.tar.gz
-    6d15d6b1f92168afb4823d3dda099152483c2f370b09a1e700f35e0e833b0340  ghost-0.19.1.5-i686-pc-linux-gnu-debug.tar.gz
-    467a5e752a6ebf489898c400c41ad86c5174d81756db68e186aa995baa86fae8  ghost-0.19.1.5-i686-pc-linux-gnu.tar.gz
-    9d7b45fd212e52793add01223994b5543b40973c17e7ae5773bf02593a9c6af9  ghost-0.19.1.5-i686-pc-linux-gnu_nousb-debug.tar.gz
-    b0cad0f39138551c29cd7034acd835e53b59a83957d4662f7156e35bb14991f3  ghost-0.19.1.5-i686-pc-linux-gnu_nousb.tar.gz
-    33f195ae9078228d0c1e700141d0ab0a14a8c17ad96068dc280bf129cc4b8089  ghost-0.19.1.5-riscv64-linux-gnu-debug.tar.gz
-    7b1527ef9544a6eab22bdf0a9789032280e24331c216e5287ab3336fb36761fb  ghost-0.19.1.5-riscv64-linux-gnu.tar.gz
-    3e281defa22212afb8d69222c67b9c83adbbfb938d13c3887247b3c4f98a8fb4  ghost-0.19.1.5-x86_64-linux-gnu-debug.tar.gz
-    c552564315a79a2524a6cc9d438c59cfa87da24000dc32c6de7b37a00a8f12af  ghost-0.19.1.5-x86_64-linux-gnu.tar.gz
-    64aec7c72796f4471e0c02a3be60bd33bcab746c25fdceecc60538bba84030d0  ghost-0.19.1.5-x86_64-linux-gnu_nousb-debug.tar.gz
-    39b8cfeb16b21099f2cc0ded6afb53154e2807fe3d451bc73d7078e7e2fa59f3  ghost-0.19.1.5-x86_64-linux-gnu_nousb.tar.gz
-    7b5e64487cd9148a9577fffa5384c90f4a1198ceaf50a61efef1fe8bb9c055f9  src/ghost-0.19.1.5.tar.gz
+    e07b3fae45da2a62be15a71049b04a24dbd0b62b363a950968d2f76c53434947  ghost-0.19.1.5-aarch64-linux-gnu-debug.tar.gz
+    26fbcacf9c21f4d207a8624e613c1cf5dbaba7f5687b58c4ef029165a042f2e4  ghost-0.19.1.5-aarch64-linux-gnu.tar.gz
+    b9088aeda67acb8390097f24c3776915a5d3be548898b19b7a484e718374b2e8  ghost-0.19.1.5-arm-linux-gnueabihf-debug.tar.gz
+    c77e7dcb04318544d3e5d15e4dd4e54534e8bf35a7bd28a92f863316428dccf7  ghost-0.19.1.5-arm-linux-gnueabihf.tar.gz
+    88dd997d5276c6693e025d2344a7eae8e0f12171dbccb7d444e06f03a53d11af  ghost-0.19.1.5-i686-pc-linux-gnu-debug.tar.gz
+    d0d33ffec1c81d95c6b04033c8b71ca9530f9228c7e41b372be65a980211e4dd  ghost-0.19.1.5-i686-pc-linux-gnu.tar.gz
+    f5341d739909a7bc0e122176150c94649848bd7bbe92e1dc32260450727dcb1e  ghost-0.19.1.5-i686-pc-linux-gnu_nousb-debug.tar.gz
+    6f9b3ff4d4dff38b75b380833bcc23991ff97d01bc6a07285bcce6fac8a92e9b  ghost-0.19.1.5-i686-pc-linux-gnu_nousb.tar.gz
+    786154b65ea619f4c2d91bd04552d44ec99e1fa84ccbcf042ad5a228b548cb6a  ghost-0.19.1.5-riscv64-linux-gnu-debug.tar.gz
+    c3ec606b74e5c5a3bb5ba31516131d218ce75bafbe082d57caae8cd25819cadb  ghost-0.19.1.5-riscv64-linux-gnu.tar.gz
+    34d3dfd693c2d4a40030be133689a8af2ba5288d4ed90dfebc95fbae29ffb04e  ghost-0.19.1.5-x86_64-linux-gnu-debug.tar.gz
+    5fb09546ca17aef224c72913afd872f8740540193870ceb8ffaf3afaf4cd8bcb  ghost-0.19.1.5-x86_64-linux-gnu.tar.gz
+    b9cd058a015370f27a4808f384fecffd64114e528f926127582e7d222b90b642  ghost-0.19.1.5-x86_64-linux-gnu_nousb-debug.tar.gz
+    c48a14a5f9c28854bbf2ebc75d6a62e26209794e67e677dd3755daa22aac1d58  ghost-0.19.1.5-x86_64-linux-gnu_nousb.tar.gz
+    ccd41324095b995f28ba6f1f61b0e3715cd08953808c49aafeb63cb2a36dce5e  src/ghost-0.19.1.5.tar.gz
 - in_manifest: |-
     673498d03be563f33b07cef07e3013ac66ca1c7ca5a4f6415b19dc8517e56c89  ghost-linux-0.19.1.4-desc.yml
-    git:187e5bd6afb8707c17febf509afb5af60514038d ghost-core
+    git:837658f3d818b2364e3b40e9eaddb6477b8b62b5 ghost-core
 - base_manifests: !!omap
   - bionic-amd64: |
       d451eb00b2d0e2940e26028ea9f2fb1be4f5109010e997acfb2c46229ebd9ebe  adduser_3.116ubuntu1_all.deb

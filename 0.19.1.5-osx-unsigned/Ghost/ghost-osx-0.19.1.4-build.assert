@@ -1,13 +1,13 @@
 --- !!omap
 - out_manifest: |
-    a4f1a92e9a73b81b348f7aab0ce3eb48ddc4b3beda814f33bdc372bc32eb9664  ghost-0.19.1.5-osx-unsigned.dmg
-    70c8d3f750aaccc807e31a7c9f95648273541e241663de5bb1ce449248fb1220  ghost-0.19.1.5-osx-unsigned.tar.gz
-    9a7a0195ea7e0a6318298b41038253d63551d789b625cd6f32a5716a053853fa  ghost-0.19.1.5-osx64.tar.gz
-    7b5e64487cd9148a9577fffa5384c90f4a1198ceaf50a61efef1fe8bb9c055f9  src/ghost-0.19.1.5.tar.gz
+    075b5082a7030c81bbbfcae7f1c3428bf2c2a8007b047fe9ab9ba1583c2f8893  ghost-0.19.1.5-osx-unsigned.dmg
+    c83d042ade8141889452270e9636385c120476ce01787e2a754ac29526b5ebeb  ghost-0.19.1.5-osx-unsigned.tar.gz
+    fa2c3d19d6a2c86fc0347912c0b45503c33b00acc679f659cebd4e1414f8278d  ghost-0.19.1.5-osx64.tar.gz
+    ccd41324095b995f28ba6f1f61b0e3715cd08953808c49aafeb63cb2a36dce5e  src/ghost-0.19.1.5.tar.gz
 - in_manifest: |-
     2cd7fa72c4ca9d8a2ee30ccf542a87335a77ac38c479cbf229cacaef69328624  ghost-osx-0.19.1.4-desc.yml
     bec9d089ebf2e2dd59b1a811a38ec78ebd5da18cbbcd6ab39d1e59f64ac5033f  MacOSX10.11.sdk.tar.gz
-    git:187e5bd6afb8707c17febf509afb5af60514038d ghost-core
+    git:837658f3d818b2364e3b40e9eaddb6477b8b62b5 ghost-core
 - base_manifests: !!omap
   - bionic-amd64: |
       d451eb00b2d0e2940e26028ea9f2fb1be4f5109010e997acfb2c46229ebd9ebe  adduser_3.116ubuntu1_all.deb
@@ -482,7 +482,7 @@
       ca52a957fae55f7499cb2b862fa1955303ca2a9eb6c7d5f463fadb1c48dcdbd7  libzstd1_1.3.3+dfsg-2ubuntu1_amd64.deb
       fd111b1c8784bb6b5c054058c5aed0082211ba6e61e4342ecec168c6e6f3ddef  linux-base_4.5ubuntu1.1_all.deb
       cbcfa830664e90769caad94bb82d760d7927b75cb293586123354e043725ecf8  linux-base_4.5ubuntu1_all.deb
-      fff0a37d12c4cee00d1f29b8de41730f77b121c7ea200104409625bb18259a24  linux-libc-dev_4.15.0-106.107_amd64.deb
+      27e03585562f1180678d0ee5604da08e0eb4770fd20a46a957ec0ab2102de9f2  linux-libc-dev_4.15.0-108.109_amd64.deb
       4a73fc5ea2d0284e9c9c84cba68cbe5880505afbae0a3201c65c336daf8f8239  linux-libc-dev_4.15.0-20.21_amd64.deb
       315d6ee1c21ca410dec962affd563528ee4bc1ec8b9fdab5755f74236658d374  locales_2.27-3ubuntu1_all.deb
       565f3725508d78b7c5bfd021c8c5437c7f8703be2d5d591d5b0197b901f26a86  login_1%3a4.5-1ubuntu1_amd64.deb

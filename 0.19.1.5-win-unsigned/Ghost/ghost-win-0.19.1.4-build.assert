@@ -1,13 +1,13 @@
 --- !!omap
 - out_manifest: |
-    211a48efe36b8ffa55d6de0cfc569b62c8d662a7d8f583c0f344d44b7a44098b  ghost-0.19.1.5-win-unsigned.tar.gz
-    65e528ff58d28ffcab898ef830ee3520659f534bfa5daccbad2cbd75ccc9494b  ghost-0.19.1.5-win64-debug.zip
-    8defeae55c3c403ba9ed0566dc7739c87b1fde084cffdd8d66caa58823e4589c  ghost-0.19.1.5-win64-setup-unsigned.exe
-    553ee66da7b35ff9a7f4072981550f3d66d55cfff76acca35bd315e5cb21b0b6  ghost-0.19.1.5-win64.zip
-    7b5e64487cd9148a9577fffa5384c90f4a1198ceaf50a61efef1fe8bb9c055f9  src/ghost-0.19.1.5.tar.gz
+    26b7f7e0b577a19c99af55958cf5dfcf240fb6316ff17e1a374329d59c39f641  ghost-0.19.1.5-win-unsigned.tar.gz
+    b113838d0d620efcce0a41c393f07b85ea01272d516058f0bf5b914478f7ac07  ghost-0.19.1.5-win64-debug.zip
+    1b62062b30cdaebd17f576eb8ab28b3a45ec0c5d90020d1772b700d0aef33e61  ghost-0.19.1.5-win64-setup-unsigned.exe
+    1766ba6d6408636de6e3bdb6bdb17824325852681f8a97a01b36bbbb00d0d93f  ghost-0.19.1.5-win64.zip
+    ccd41324095b995f28ba6f1f61b0e3715cd08953808c49aafeb63cb2a36dce5e  src/ghost-0.19.1.5.tar.gz
 - in_manifest: |-
     db5e9d160c978f641d912c494fd4ce6161f3f02552b9f63ac1bfcfdf1570e0fa  ghost-win-0.19.1.4-desc.yml
-    git:187e5bd6afb8707c17febf509afb5af60514038d ghost-core
+    git:837658f3d818b2364e3b40e9eaddb6477b8b62b5 ghost-core
 - base_manifests: !!omap
   - bionic-amd64: |
       d451eb00b2d0e2940e26028ea9f2fb1be4f5109010e997acfb2c46229ebd9ebe  adduser_3.116ubuntu1_all.deb
@@ -390,7 +390,7 @@
       ca52a957fae55f7499cb2b862fa1955303ca2a9eb6c7d5f463fadb1c48dcdbd7  libzstd1_1.3.3+dfsg-2ubuntu1_amd64.deb
       fd111b1c8784bb6b5c054058c5aed0082211ba6e61e4342ecec168c6e6f3ddef  linux-base_4.5ubuntu1.1_all.deb
       cbcfa830664e90769caad94bb82d760d7927b75cb293586123354e043725ecf8  linux-base_4.5ubuntu1_all.deb
-      fff0a37d12c4cee00d1f29b8de41730f77b121c7ea200104409625bb18259a24  linux-libc-dev_4.15.0-106.107_amd64.deb
+      27e03585562f1180678d0ee5604da08e0eb4770fd20a46a957ec0ab2102de9f2  linux-libc-dev_4.15.0-108.109_amd64.deb
       4a73fc5ea2d0284e9c9c84cba68cbe5880505afbae0a3201c65c336daf8f8239  linux-libc-dev_4.15.0-20.21_amd64.deb
       315d6ee1c21ca410dec962affd563528ee4bc1ec8b9fdab5755f74236658d374  locales_2.27-3ubuntu1_all.deb
       565f3725508d78b7c5bfd021c8c5437c7f8703be2d5d591d5b0197b901f26a86  login_1%3a4.5-1ubuntu1_amd64.deb
